@@ -86,6 +86,12 @@ public int romanToInt(String s) {
         return sum;
 }
 ```
+Above implementation have runtime complexity of O(n) and space complexity of O(1), where n is the length of the input string.
+
+```
+Runtime Complexity = O(n)
+Space Complexity   = O(1)
+```
 
 ## References :
 https://www.youtube.com/watch?v=hEhf_oz3wsM
